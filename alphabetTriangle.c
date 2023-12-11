@@ -2,7 +2,7 @@
 
 void main()
 {
-    int n=26;
+    int n=6;
 
     for(int i=1 ; i<=n ;i++){
         int a = 65;
